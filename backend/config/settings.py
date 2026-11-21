@@ -77,5 +77,5 @@ REST_FRAMEWORK = {
     "DEFAULT_PAGINATION_CLASS": "core.access.StandardPagination",
 }
 CORS_ALLOWED_ORIGINS=[
-    "https://frontend-five-nu-34.vercel.app/"
+    "https://frontend-five-nu-34.vercel.app/",
 ]
